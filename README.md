@@ -37,19 +37,10 @@ This repository contains an interactive **Power BI dashboard** analyzing sales, 
 
 | File Name | Description |
 |-----------|-------------|
-| `Superstore_Dashboard.pbix` | Main Power BI report file |
+| `Global Market Trends and Profitability Insights.pbix` | Main Power BI report file |
 | `README.md` | GitHub project description |
-| `PowerBI_Dashboard_ReadMe.txt` | Plain-text documentation |
-| `images/` | (Optional) Dashboard screenshots |
+| `ReadMe.txt` | Plain-text documentation |
 
----
-
-## 🖼️ Screenshots (Optional)
-
-You can include visuals like this below to showcase your work:
-
-![Sales Overview Page](images/sales-overview.png)
-![Customer Insights Page](images/customer-insights.png)
 
 ---
 
@@ -68,7 +59,6 @@ This dashboard helps stakeholders explore key metrics across sales, customer seg
 
 ## ⚠️ Notes
 - This project uses sample Superstore data for demonstration purposes.
-- Make sure to remove or anonymize any proprietary or sensitive data before sharing.
 
 ---
 
